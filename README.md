@@ -88,12 +88,6 @@ Task2/
 │── Task2.ipynb
 │── README.md
 │── requirements.txt
-│── accuracy.png
-│── loss.png
-│── confusion_matrix_lr.png
-│── confusion_matrix_svm.png
-│── confusion_matrix_lstm.png
-│── comparison_results.csv
 ```
 
 ---
