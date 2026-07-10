@@ -102,11 +102,6 @@ Task1/
 │── Task1.ipynb
 │── README.md
 │── requirements.txt
-│── traditional_cnn.keras
-│── customized_cnn.keras
-│── accuracy.png
-│── loss.png
-│── confusion_matrix.png
 ```
 
 ---
